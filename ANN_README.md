@@ -1,6 +1,6 @@
 The project includes:
 
-- Creation of simple ANN to gain insights into the churning of customers of a bank.
+- Creation of simple ANN to gain insights into the churning of customers of a bank(dataset is: Churn_Modelling.csv
 - Predict if a customer with the following details will leave or stay with the bank:
 Geography: France 
 Credit Score: 600 
